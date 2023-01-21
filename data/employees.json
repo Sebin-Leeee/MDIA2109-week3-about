@@ -1,0 +1,17 @@
+[
+    {
+        "firstName": "Sebin Lee",
+        "department": "Marketing",
+        "employeeNumber": 1  
+    },
+    {
+        "firstName": "Mingyu Lee",
+        "department": "UI/UX Design",
+        "employeeNumber": 2 
+    },
+    {
+        "firstName": "Elly Park",
+        "department": "Customer Service",
+        "employeeNumber": 3
+    }
+]
